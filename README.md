@@ -1,4 +1,6 @@
-# typeorm-cordova-example
+# typeorm-cordova-example [DEPRECATED]
+An updated version of this project is now at [typeorm/cordova-example](https://github.com/typeorm/cordova-example)
+
 This is a simple app to demonstrate the usage of TypeORM in Cordova.
 
 ## Installation
